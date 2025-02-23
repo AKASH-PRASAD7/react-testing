@@ -8,9 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.env
 dist
 dist-ssr
 *.local
+
 
 # Editor directories and files
 .vscode/*
@@ -34,3 +36,4 @@ coverage/
 /blob-report/
 /playwright/.cache/
 /e2e/playwright/.auth/
+.env
